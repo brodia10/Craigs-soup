@@ -1,4 +1,6 @@
-# Craigsoup uses beautifulsoup4 to scrape data from Craigslist
+# Craigs Soup
+
+#### Craigs Soup uses beautifulsoup4 to scrape data from Craigslist
 
 ## Install
 
