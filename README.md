@@ -6,7 +6,7 @@
 
 ### Clone the repo
 
-`git clone https://github.com/brodia10/Craigs-soup.git`
+`git clone https://github.com/brodia10/craigs-soup.git`
 
 ### Create a virtual environment
 
